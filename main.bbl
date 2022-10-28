@@ -1,0 +1,30 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\urlprefix}{}
+\providecommand{\doiprefix}{doi: }
+
+\bibitem[{Bezuidenhout and Havemann(2021)Bezuidenhout, Louise and Havemann,
+  Johanna}]{Bezuidenhout2021}
+\textbf{\color{eLifeMediumGrey} Bezuidenhout L}, Havemann J, The Varying
+  Openness of Digital Open Science Tools; 2021.
+\newblock \href{10.12688/f1000research.26615.2}{\doiprefix
+  \detokenize{10.12688/f1000research.26615.2}}.
+
+\bibitem[{Brembs et~al.(2021)Brembs, Bj{\"o}rn and Huneman, Philippe and
+  Sch{\"o}nbrodt, Felix and Nilsonne, Gustav and Susi, Toma and Siems, Renke
+  and Perakakis, Pandelis and Trachana, Varvara and Ma, Lai and
+  {Rodriguez-Cuadrado}, Sara}]{Brembs2021}
+\textbf{\color{eLifeMediumGrey} Brembs B}, Huneman P, Sch{\"o}nbrodt F,
+  Nilsonne G, Susi T, Siems R, Perakakis P, Trachana V, Ma L,
+  {Rodriguez-Cuadrado} S.
+\newblock Replacing Academic Journals.
+\newblock Zenodo.  2021 Sep; \href{10.5281/zenodo.5526635}{\doiprefix
+  \detokenize{10.5281/zenodo.5526635}}.
+
+\bibitem[{Pooley(2021)Pooley, Jefferson}]{Pooley2021}
+\textbf{\color{eLifeMediumGrey} Pooley J}, Surveillance {{Publishing}}.
+\newblock {SocArXiv}; 2021.
+\newblock \href{10.31235/osf.io/j6ung}{\doiprefix
+  \detokenize{10.31235/osf.io/j6ung}}.
+
+\end{thebibliography}

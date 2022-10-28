@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: vancouver-elife.bst
+Database file #1: src/bibliography.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty author and editor in Bezuidenhout2021
+Warning--missing publisher in Bezuidenhout2021
+Warning--empty author and editor in Pooley2021
+You've used 3 entries,
+            3492 wiz_defined-function locations,
+            728 strings with 5850 characters,
+and the built_in function-call counts, 7154 in all, are:
+= -- 891
+> -- 81
+< -- 2
++ -- 41
+- -- 26
+* -- 651
+:= -- 805
+add.period$ -- 8
+call.type$ -- 3
+change.case$ -- 25
+chr.to.int$ -- 3
+cite$ -- 6
+duplicate$ -- 596
+empty$ -- 644
+format.name$ -- 33
+if$ -- 1616
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 30
+newline$ -- 20
+num.names$ -- 9
+pop$ -- 78
+preamble$ -- 1
+purify$ -- 25
+quote$ -- 0
+skip$ -- 62
+stack$ -- 0
+substring$ -- 1334
+swap$ -- 63
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 27
+warning$ -- 3
+while$ -- 27
+width$ -- 0
+write$ -- 42
+(There were 3 warnings)
